@@ -1,0 +1,6 @@
+{
+  "name": "Next Offline Chat AI",
+  "description": "True offline on-device AI chatbot and Bengali writing assistant by Next Graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
